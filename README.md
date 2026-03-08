@@ -11,6 +11,10 @@ In this project, I have designed and implemented a food ordering and billing wor
 
 
 
+
+
+
+
 The Live code demonstration and PDF file of the detailed code is attached. 
 
 This project strengthened my ability to translate a real-world business process into structured Python logic. By designing an end-to-end food ordering and billing workflow, I applied modular function design, loop control, conditional logic, and rule-based pricing mechanisms to simulate a practical transaction system.
