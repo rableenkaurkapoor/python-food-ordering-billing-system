@@ -5,6 +5,7 @@ In this project, I have designed and implemented a food ordering and billing wor
 ◾ Functionalities and Variable Flow -
 <img width="975" height="668" alt="image" src="https://github.com/user-attachments/assets/7f899b21-a58f-4771-bd18-30cbd952fd7d" />
 
+
 ◾ Overall System Logic, Loop and Variable Flow -
 <img width="975" height="641" alt="image" src="https://github.com/user-attachments/assets/b1734622-75df-4938-999c-d033593fc57a" />
 
