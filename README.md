@@ -1,4 +1,4 @@
-# **Python Food Orderingand Billing System**
+# **Python Food Ordering and Billing System**
 
 **In this project, I have designed and implemented a food ordering and billing workflow to simulate a real-world digital ordering process.** Defined the end-to-end business process flow, mapped inputs and outputs across system functions, and implemented rule-based pricing and promotions. Built logic for user authentication, restaurant and menu selection, discount application, and final bill generation using Python, supported by clear flowcharts and runtime demonstrations.
 
