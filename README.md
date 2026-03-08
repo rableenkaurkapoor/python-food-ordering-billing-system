@@ -27,3 +27,12 @@ This project strengthened my ability to translate a real-world business process 
 Through clear input-output mapping, validation checks, and promotional logic implementation, I developed a deeper understanding of backend system flow and business rule execution.
 
 **Overall, this project reflects my foundation in structured programming and my ability to think analytically while building scalable, logic-driven solutions.**
+
+## ◾ Skills Demonstrated
+
+- Python programming and modular function design  
+- Backend workflow and system logic development  
+- Conditional logic and loop-based process control  
+- Input–output variable flow mapping  
+- Rule-based pricing and promotion logic implementation  
+- Translating real-world business processes into structured code
