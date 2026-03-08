@@ -2,11 +2,11 @@
 
 In this project, I have designed and implemented a food ordering and billing workflow to simulate a real-world digital ordering process. Defined the end-to-end business process flow, mapped inputs and outputs across system functions, and implemented rule-based pricing and promotions. Built logic for user authentication, restaurant and menu selection, discount application, and final bill generation using Python, supported by clear flowcharts and runtime demonstrations.
 
-◾ Functionalities and Variable Flow -
+## ◾ Functionalities and Variable Flow
 <img width="975" height="668" alt="image" src="https://github.com/user-attachments/assets/7f899b21-a58f-4771-bd18-30cbd952fd7d" />
 
 
-◾ Overall System Logic, Loop and Variable Flow -
+## ◾ Overall System Logic, Loop and Variable Flow
 <img width="975" height="641" alt="image" src="https://github.com/user-attachments/assets/b1734622-75df-4938-999c-d033593fc57a" />
 
 The Live code demonstration and PDF file of the detailed code is attached. 
