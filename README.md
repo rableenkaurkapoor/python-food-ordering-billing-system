@@ -36,3 +36,9 @@ Through clear input-output mapping, validation checks, and promotional logic imp
 - Input–output variable flow mapping  
 - Rule-based pricing and promotion logic implementation  
 - Translating real-world business processes into structured code
+
+## 🛠 Tools Used
+
+- **Python** – Implemented the complete food ordering and billing workflow logic  
+- **Jupyter Notebook** – Developed and executed the code and demonstrations  
+- **PowerPoint** – Recorded the live code demonstration and explanation of the system workflow
